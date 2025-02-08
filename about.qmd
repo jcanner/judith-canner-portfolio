@@ -1,9 +1,5 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+Dr. Judith E. Canner received her B.S. in Mathematics from Shippensburg University, PA, in 2004 and her Ph.D. in Biomathematics and Zoology from North Carolina State University, Raleigh, NC working with Drs. Kevin Gross and Rob Dunn on The Population Ecology of Ant-dispersed Plants in Space and Time in 2010.  She joined the Mathematics and Statistics Department at California State University Monterey Bay (CSUMB) as the first Assistant Professor of Statistics in 2010. She established the Statistics Minor, the Data Science Minor, and she is the Program Coordinator for the Statistics B.S. program.  In addition to her focus on the growth of the Statistics and Data Science Program, she is also the Principal Investigator on the NIH funded Big Data to Knowledge (BD2K) Program at CSUMB, overseeing a special summer research program for CSUMB students from across disciplines at the UC Santa Cruz Center for Big Data in Translational Genomics, curriculum development and redesign with an emphasis on biomedical data science across programs in the College of Science, and supporting faculty development and training in data science.  She also is co-PI on an NSF S-STEM grant to support scholarships for statistics and data science undergraduates, the CA Learning Lab Grant to build faculty development groups in data science, and an NSF iUSE grant to research equitable air programming in the data science classroom. Though her current research focuses on statistics and data science education, she has consulted on projects in kinesiology, psychology, health education, and cancer biology. She now serves as the Acting Department Chair for the Department of Mathematics and Statistics and has won CSU System-wide awards for her leadership and teaching.

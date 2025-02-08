@@ -1,11 +1,28 @@
 ---
-title: "judith-canner-portfolio"
+title: "Judith Canner"
+subtitle: "Professor of Statistics"
+image: Judith_Canner.jpg
+about: 
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/jcanner
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/judith-canner/
 ---
 
-This is a Quarto website.
+Dr. Judith E. Canner is a Professor of Statistics in the Department of Mathematics and Statistics at [California State University, Monterey Bay](http://csumb.edu/stat) where she serves as the Statistics Program Coordinator for the Statistics B.S., Statistics Minor, and Data Science Minor.  Her professional interests include expanding access to statistics and data science education, data literacy, and data for good.  
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+## Education
+
+**North Carolina State University** | Raleigh, NC  
+Ph.D. Biomathematics and Zoology (2010)  
+Biomathematics Graduate Program | Department of Statistics | Department of Biology 
+
+
+**Shippensburg University** | Shippensburg, PA  
+B.S. Mathematics (2004) | Applied Concentration | Physics Minor  
+Department of Mathematics 
