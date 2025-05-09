@@ -1,5 +1,47 @@
 [
   {
+    "objectID": "portfolio-project/project-portfolio.html",
+    "href": "portfolio-project/project-portfolio.html",
+    "title": "Project: Example for Class",
+    "section": "",
+    "text": "Here is a description of my data and a link to the source embded here with references."
+  },
+  {
+    "objectID": "portfolio-project/project-portfolio.html#data-description",
+    "href": "portfolio-project/project-portfolio.html#data-description",
+    "title": "Project: Example for Class",
+    "section": "",
+    "text": "Here is a description of my data and a link to the source embded here with references."
+  },
+  {
+    "objectID": "portfolio-project/project-portfolio.html#data-cleaning",
+    "href": "portfolio-project/project-portfolio.html#data-cleaning",
+    "title": "Project: Example for Class",
+    "section": "Data Cleaning",
+    "text": "Data Cleaning\nHere I describe in plain speak what I did to clean the data. Do not show code or use technical terms. I want to be able to read this and understand what I did."
+  },
+  {
+    "objectID": "portfolio-project/project-portfolio.html#visualzation-1",
+    "href": "portfolio-project/project-portfolio.html#visualzation-1",
+    "title": "Project: Example for Class",
+    "section": "Visualzation 1",
+    "text": "Visualzation 1\nHere is a description of the first visualization. I want to describe what the visualization shows to a general audience. I do not want to see any code or technical terms. I want to be able to read this and understand what the visualization shows. I also want to see a caption and alt text for the visualization. The caption should be a short description of the visualization and the alt text should be a longer description of the visualization. The alt text should be descriptive enough that someone who is blind could understand what the visualization shows.\n\n\n\n\n\nThis is a caption for the first visualization"
+  },
+  {
+    "objectID": "portfolio-project/project-portfolio.html#visualization-2",
+    "href": "portfolio-project/project-portfolio.html#visualization-2",
+    "title": "Project: Example for Class",
+    "section": "Visualization 2",
+    "text": "Visualization 2\nHere is a description of the second visualization. I want to describe what the visualization shows to a general audience. I do not want to see any code or technical terms. I want to be able to read this and understand what the visualization shows. I also want to see a caption and alt text for the visualization. The caption should be a short description of the visualization and the alt text should be a longer description of the visualization. The alt text should be descriptive enough that someone who is blind could understand what the visualization shows.\n\n\n\n\n\nThis is a caption for the second visualization"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Dr. Judith E. Canner received her B.S. in Mathematics from Shippensburg University, PA, in 2004 and her Ph.D. in Biomathematics and Zoology from North Carolina State University, Raleigh, NC working with Drs. Kevin Gross and Rob Dunn on The Population Ecology of Ant-dispersed Plants in Space and Time in 2010. She joined the Mathematics and Statistics Department at California State University Monterey Bay (CSUMB) as the first Assistant Professor of Statistics in 2010. She established the Statistics Minor, the Data Science Minor, and she is the Program Coordinator for the Statistics B.S. program. In addition to her focus on the growth of the Statistics and Data Science Program, she is also the Principal Investigator on the NIH funded Big Data to Knowledge (BD2K) Program at CSUMB, overseeing a special summer research program for CSUMB students from across disciplines at the UC Santa Cruz Center for Big Data in Translational Genomics, curriculum development and redesign with an emphasis on biomedical data science across programs in the College of Science, and supporting faculty development and training in data science. She also is co-PI on an NSF S-STEM grant to support scholarships for statistics and data science undergraduates, the CA Learning Lab Grant to build faculty development groups in data science, and an NSF iUSE grant to research equitable air programming in the data science classroom. Though her current research focuses on statistics and data science education, she has consulted on projects in kinesiology, psychology, health education, and cancer biology. She now serves as the Acting Department Chair for the Department of Mathematics and Statistics and has won CSU System-wide awards for her leadership and teaching."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Judith Canner",
@@ -12,12 +54,5 @@
     "title": "Judith Canner",
     "section": "Education",
     "text": "Education\nNorth Carolina State University | Raleigh, NC\nPh.D. Biomathematics and Zoology (2010)\nBiomathematics Graduate Program | Department of Statistics | Department of Biology\nShippensburg University | Shippensburg, PA\nB.S. Mathematics (2004) | Applied Concentration | Physics Minor\nDepartment of Mathematics"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
-    "section": "",
-    "text": "Dr. Judith E. Canner received her B.S. in Mathematics from Shippensburg University, PA, in 2004 and her Ph.D. in Biomathematics and Zoology from North Carolina State University, Raleigh, NC working with Drs. Kevin Gross and Rob Dunn on The Population Ecology of Ant-dispersed Plants in Space and Time in 2010. She joined the Mathematics and Statistics Department at California State University Monterey Bay (CSUMB) as the first Assistant Professor of Statistics in 2010. She established the Statistics Minor, the Data Science Minor, and she is the Program Coordinator for the Statistics B.S. program. In addition to her focus on the growth of the Statistics and Data Science Program, she is also the Principal Investigator on the NIH funded Big Data to Knowledge (BD2K) Program at CSUMB, overseeing a special summer research program for CSUMB students from across disciplines at the UC Santa Cruz Center for Big Data in Translational Genomics, curriculum development and redesign with an emphasis on biomedical data science across programs in the College of Science, and supporting faculty development and training in data science. She also is co-PI on an NSF S-STEM grant to support scholarships for statistics and data science undergraduates, the CA Learning Lab Grant to build faculty development groups in data science, and an NSF iUSE grant to research equitable air programming in the data science classroom. Though her current research focuses on statistics and data science education, she has consulted on projects in kinesiology, psychology, health education, and cancer biology. She now serves as the Acting Department Chair for the Department of Mathematics and Statistics and has won CSU System-wide awards for her leadership and teaching."
   }
 ]
