@@ -1,0 +1,82 @@
+---
+title: "Project: Example for Class"
+format: html
+execute: 
+  echo: false
+  warning: false
+  message: false
+embed-resources: true
+---
+
+
+```{r}
+#| label: setup
+#| include: false
+library(tidyverse)
+```
+
+
+## Data Description
+
+Here is a description of my data and a link to the source embded here with references.  
+
+
+
+## Data Cleaning  
+
+Here I describe in plain speak what I did to clean the data.  Do not show code or use technical terms.  I want to be able to read this and understand what I did.  
+
+
+```{r}
+#| label: data-cleaning
+#this shoud be hidden from view and no seen in the website it shoudl include your data cleaning and you should export the clean data
+
+```
+
+```{r}
+#| label: read-data
+#read in your clean data here
+```
+
+
+## Visualzation 1
+Here is a description of the first visualization.  I want to describe what the visualization shows to a general audience.  I do not want to see any code or technical terms.  I want to be able to read this and understand what the visualization shows.  I also want to see a caption and alt text for the visualization.  The caption should be a short description of the visualization and the alt text should be a longer description of the visualization.  The alt text should be descriptive enough that someone who is blind could understand what the visualization shows.
+
+```{r}
+#| label: viz-1
+#| fig-cap: "This is a caption for the first visualization"
+#| fig-alt: "This is an alternative text for the first visualization"
+#| fig-width: 6
+#| fig-height: 4
+#| fig-align: center
+
+#create plot of iris dataset
+ggplot(iris, aes(x = Sepal.Length, y = Sepal.Width)) +
+  geom_point() +
+  labs(title = "Iris Dataset", 
+       x = "Sepal Length", 
+       y = "Sepal Width") +
+  theme_minimal()
+```
+
+
+
+## Visualization 2
+Here is a description of the second visualization.  I want to describe what the visualization shows to a general audience.  I do not want to see any code or technical terms.  I want to be able to read this and understand what the visualization shows.  I also want to see a caption and alt text for the visualization.  The caption should be a short description of the visualization and the alt text should be a longer description of the visualization.  The alt text should be descriptive enough that someone who is blind could understand what the visualization shows.
+
+```{r}
+#| label: viz-2
+#| fig-cap: "This is a caption for the second visualization"
+#| fig-alt: "This is an alternative text for the second visualization"
+#| fig-width: 6
+#| fig-height: 4
+#| fig-align: center
+
+#create plot of cars data set
+ggplot(cars, aes(x = speed, y = dist)) +
+  geom_point() +
+  labs(title = "Cars Dataset", 
+       x = "Speed", 
+       y = "Distance") +
+  theme_minimal()
+```

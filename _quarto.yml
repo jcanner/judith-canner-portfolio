@@ -10,7 +10,9 @@ website:
         text: "Home"
       - href: about.qmd
         text: "About Me"
-
+      - href: portfolio-project/
+        text: "Example Project"
+        
 format:
   html:
     theme: cosmo
